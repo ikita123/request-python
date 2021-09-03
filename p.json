@@ -1,0 +1,160 @@
+{
+    "course": {
+        "id": "106",
+        "name": "Interview Questions",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": "10",
+        "short_description": "Iss course mai hum apne alumni se jo questions puche gaye hai unne par work karenge",
+        "type": "html",
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "2398",
+                "parent_exercise_id": null,
+                "course_id": "106",
+                "name": "Interview Questions",
+                "slug": "interviewQuestions__intro",
+                "sequence_num": 0,
+                "review_type": "peer",
+                "submission_type": "url",
+                "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Iss course mai hum interview questions pe focus karege jo humare alunmi se puche gaye hai. "
+                    }
+                ]
+            },
+            {
+                "id": "2396",
+                "parent_exercise_id": "2396",
+                "course_id": "106",
+                "name": "Basic Questions",
+                "slug": "interviewQuestions__Python/intro",
+                "sequence_num": 2000,
+                "review_type": "peer",
+                "submission_type": "url",
+                "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Iss topic mai hum Python  se related questions pe dhan denge do interview mai puche jate hai. "
+                    }
+                ]
+            },
+            {
+                "id": "2400",
+                "parent_exercise_id": "2396",
+                "course_id": "106",
+                "name": "Basic Questions",
+                "slug": "interviewQuestions__Python/Part1",
+                "sequence_num": 2001,
+                "review_type": "peer",
+                "submission_type": "url",
+                "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part1.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. Difference between primitive and non-primitive data types.\n\n\n 2. Why python is interpreter language?\n\n\n\n "
+                    }
+                ]
+            },
+            {
+                "id": "2401",
+                "parent_exercise_id": "2396",
+                "course_id": "106",
+                "name": "Loop questions",
+                "slug": "interviewQuestions__Python/Part3",
+                "sequence_num": 2002,
+                "review_type": "peer",
+                "submission_type": "url",
+                "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part3.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. Difference between while and for loop.\n\n\n 2. What is the use of for in loop?\n\n\n 3. Where to use  while true and why?\n\n\n 4. What are iterators? "
+                    }
+                ]
+            },
+            {
+                "id": "2403",
+                "parent_exercise_id": "2396",
+                "course_id": "106",
+                "name": "Functions questions",
+                "slug": "interviewQuestions__Python/Part4",
+                "sequence_num": 2003,
+                "review_type": "peer",
+                "submission_type": "url",
+                "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part4.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. Why do we write functions?\n\n\n 2. Difference between arguements or parameters.\n\n\n 3. What is the difference between a parameter and an argument?\n\n\n 4. All functions in Python by default return ...?\n\n\n 5. What are keyword arguments and when should we use them?\n\n\n 6. How can we make a parameter of a function optional?\n\n\n 7. What happens when we prefix a parameter with an asterisk (*)?\n\n\n 8. What about two asterisks (**)?\n\n\n 9. What is scope?\n\n\n 10. What is the difference between local and global variables?\n\n\n 11. Why is using the global statement a bad practice?\n\n "
+                    }
+                ]
+            },
+            {
+                "id": "2402",
+                "parent_exercise_id": "2396",
+                "course_id": "106",
+                "name": "Data Structure questions",
+                "slug": "interviewQuestions__Python/Part5",
+                "sequence_num": 2004,
+                "review_type": "peer",
+                "submission_type": "url",
+                "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part5.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. Is Strings mutable or immutable ?\n\n\n 2. Is dictionary structure   ordered or unordered.\n\n\n 3. Is Tuple, mutable or immutable ?\n\n\n 4.Difference between tuple and list . 5. Difference between 2d and 3d arrays.\n`Example :- chess `.\n\n\n 6. Which sorting method is fast ?\n\n\n 7. What is binary search ?\n\n\n "
+                    }
+                ]
+            },
+            {
+                "id": "2397",
+                "parent_exercise_id": "2397",
+                "course_id": "106",
+                "name": "Js Questions",
+                "slug": "interviewQuestions__Js/intro",
+                "sequence_num": 3000,
+                "review_type": "peer",
+                "submission_type": "url",
+                "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Js/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Iss topic mai hum Js  se related questions pe dhan denge do interview mai puche jate hai. "
+                    }
+                ]
+            },
+            {
+                "id": "2399",
+                "parent_exercise_id": "2397",
+                "course_id": "106",
+                "name": "Part 1",
+                "slug": "interviewQuestions__Js/Part1",
+                "sequence_num": 3001,
+                "review_type": "peer",
+                "submission_type": "url",
+                "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Js/Part1.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. What is the difference between == and === operators?\n\n\n 2. What is the purpose of let keyword?\n\n\n 3. What is the difference between let and var?\n\n\n 4.    What is Temporal Dead Zone?\n\n\n 5. What is the purpose of array slice method?\n\n6. What is the difference between slice and splice?\n\n\n 7. How do you compare Object and Map?\n\n8. What are lambda or arrow functions?\n\n "
+                    }
+                ]
+            }
+        ]
+    }
+}

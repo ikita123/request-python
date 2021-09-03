@@ -1,0 +1,56 @@
+[
+    {
+        "id": "2398",
+        "parent_exercise_id": null,
+        "course_id": "106",
+        "name": "Interview Questions",
+        "slug": "interviewQuestions__intro",
+        "sequence_num": 0,
+        "review_type": "peer",
+        "submission_type": "url",
+        "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/intro.md",
+        "solution": null,
+        "content": [
+            {
+                "type": "markdown",
+                "value": "Iss course mai hum interview questions pe focus karege jo humare alunmi se puche gaye hai. "
+            }
+        ]
+    },
+    {
+        "id": "2396",
+        "parent_exercise_id": "2396",
+        "course_id": "106",
+        "name": "Basic Questions",
+        "slug": "interviewQuestions__Python/intro",
+        "sequence_num": 2000,
+        "review_type": "peer",
+        "submission_type": "url",
+        "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/intro.md",
+        "solution": null,
+        "content": [
+            {
+                "type": "markdown",
+                "value": "Iss topic mai hum Python  se related questions pe dhan denge do interview mai puche jate hai. "
+            }
+        ]
+    },
+    {
+        "id": "2397",
+        "parent_exercise_id": "2397",
+        "course_id": "106",
+        "name": "Js Questions",
+        "slug": "interviewQuestions__Js/intro",
+        "sequence_num": 3000,
+        "review_type": "peer",
+        "submission_type": "url",
+        "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Js/intro.md",
+        "solution": null,
+        "content": [
+            {
+                "type": "markdown",
+                "value": "Iss topic mai hum Js  se related questions pe dhan denge do interview mai puche jate hai. "
+            }
+        ]
+    }
+]
